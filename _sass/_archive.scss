@@ -236,3 +236,15 @@
     }
   }
 }
+
+/* Extra for publications ============== */
+div.paper_title {
+  font-weight: bold;
+  display:inline;
+  font-size: 1em;
+}
+
+div.paper_authors, div.paper_venue {
+  display:inline;
+  font-size: $type-size-c;
+}
