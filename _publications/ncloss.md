@@ -7,6 +7,6 @@ venue: "CVPR"
 authors: "M. Tang, A. Djelouah, F. Perazzi, Y. Boykov, C. Schroers"
 uri: https://drive.google.com/open?id=14zsbw1VXZQQUN7K5Hep1OftAI08ZSev9
 arxiv:
-bibtex: ncloss.txt
+bibtex: files/ncloss.txt
 pdf: https://drive.google.com/open?id=14zsbw1VXZQQUN7K5Hep1OftAI08ZSev9
 ---
