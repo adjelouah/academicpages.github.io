@@ -1,0 +1,22 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if post.collection == 'publications'}
+            <td>
+              <div class='paper_title'>{{post.title}}</div><br>
+
+              <div class='paper_authors'>{{post.authors}}</div><br>
+
+              <div class='paper_venue'>
+                {% if post.venue%}{{post.venue}}{% endif %}
+                {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
+              </div><br>
+
+              {% if post.uri %}
+                <a href="{{post.uri}}">PDF</a>
+              {% endif %}
+            </td>
+        {% endif %}
+  </article>
+</div>
