@@ -16,8 +16,6 @@ I am an associate research scientist at Disney Research in Zürich. Before joini
 Publications
 ------
 
-<table>
 {% for post in site.publications reversed %}
-  <tr>{% include publication.html %}</tr>
+  {% include archive-single.html %}
 {% endfor %}
-</table>
