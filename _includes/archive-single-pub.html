@@ -23,9 +23,14 @@
       {% endif %}
     </h3>
     {% if post.authors%}{{ post.authors }}{% endif %}
+    <p> 
     {% if post.venue%}<span style="font-style:italic">{{ post.venue }}</span> {% endif %}
     {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
-    <p>{% if post.bibtex%} BibTex | {% endif %} {% if post.bibtex%} <a href="{{ post.bibtex }}"> BibTex </a> | {% endif %}</p>
+    [{% if post.bibtex%} <a href="{{ post.bibtex }}"> BibTex </a>{% endif %}
+     {% if post.pdf%} | <a href="{{ post.pdf }}"> PDF </a>{% endif %}
+     {% if post.project%} | <a href="{{ post.project }}"> Project </a>{% endif %} 
+    ]    
+    </p>
     </li>
  </article>
 </div>
