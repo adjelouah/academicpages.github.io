@@ -15,17 +15,6 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <li>
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -33,11 +22,9 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.authors%}<p class="archive__item-excerpt" itemprop="description">{{ post.authors }}</p> {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.venue }}</p> {% endif %}
+    {% if post.authors%}{{ post.authors }}{% endif %}
+    {% if post.venue%}<span style="font-style:italic">{{ post.venue }}</span> {% endif %}
+    {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
     </li>
  </article>
 </div>
