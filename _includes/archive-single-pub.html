@@ -5,16 +5,8 @@
     <li>
     {% if post.collection == 'publications'}
         <h3 class="archive__item-title" itemprop="headline">
-              <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-        </h3>
-        <div>{{post.authors}}</div>
-        <div>      
-                {% if post.venue%}{{post.venue}}{% endif %}
-                {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
-        </div>
-        {% if post.uri %}
-          <a href="{{post.uri}}">PDF</a>
-        {% endif %}
+              <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      </h3>
     {% endif %}
     </li>
   </article>
