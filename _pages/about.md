@@ -13,6 +13,11 @@ I am an associate research scientist at Disney Research in Zürich. Before joini
 
 update
 
+Publications
+------
 
+{% for post in site.publications reversed %}
+  {% include archive-single-pub.html %}
+{% endfor %}
 
 
