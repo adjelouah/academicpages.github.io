@@ -1,0 +1,6 @@
+@inproceedings{MengTang2018a,
+  author={M. Tang and A. Djelouah and F. Perazzi and Y. Boykov and C. Schroers},
+  title={Normalized Cut Loss for Weakly-supervised CNN Segmentation},
+  booktitle = {CVPR},
+  year = {2018}
+}
