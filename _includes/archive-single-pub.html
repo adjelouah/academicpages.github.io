@@ -2,19 +2,20 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if post.collection == 'publications'}
-              <div class='paper_title'>{{post.title}}</div><br>
-
-              <div class='paper_authors'>{{post.authors}}</div><br>
-
-              <div class='paper_venue'>
+    <li>
+    {% if post.collection == 'publications'}
+        <h3 class="archive__item-title" itemprop="headline">
+              <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        </h3>
+        <div>{{post.authors}}</div>
+        <div>      
                 {% if post.venue%}{{post.venue}}{% endif %}
                 {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
-              </div><br>
-
-              {% if post.uri %}
-                <a href="{{post.uri}}">PDF</a>
-              {% endif %}
+        </div>
+        {% if post.uri %}
+          <a href="{{post.uri}}">PDF</a>
         {% endif %}
+    {% endif %}
+    </li>
   </article>
 </div>
