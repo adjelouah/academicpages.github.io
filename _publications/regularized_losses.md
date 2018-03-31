@@ -1,10 +1,10 @@
 ---
-title: "Paper 2"
+title: "On Regularized Losses for Weakly-supervised CNN Segmentation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'ECCV'
-authors: 'A. DJELOUAH'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+permalink: /publication/ncloss
+date: 2018-04-01
+venue: "arXiv"
+authors: "M. Tang, F. Perazzi, A. Djelouah, I. B. Ayed, C. Schroers, Y. Boykov"
+bibtex: files/regularized-losses.txt
+data:
 ---
