@@ -17,5 +17,5 @@ Publications
 ------
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-pub.html %}
 {% endfor %}
