@@ -25,6 +25,7 @@
     {% if post.authors%}{{ post.authors }}{% endif %}
     {% if post.venue%}<span style="font-style:italic">{{ post.venue }}</span> {% endif %}
     {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
+    <p>{% if post.bibtex%} BibTex | {% endif %} {% if post.bibtex%} <a href="{{ post.bibtex }}"> BibTex </a> | {% endif %}</p>
     </li>
  </article>
 </div>
