@@ -307,3 +307,16 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* Extra for publications ============== */
+div.paper_title {
+  font-weight: bold;
+  display:inline;
+  font-size: 1em;
+}
+
+div.paper_authors, div.paper_venue {
+  display:inline;
+  font-size: $type-size-c;
+}
+
