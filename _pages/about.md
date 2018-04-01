@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an associate research scientist at Disney Research in Zürich. Before joining Disney, I was a postdoctoral researcher at INRIA in GraphDeco group working on image and video based rendering in collaboration with George Drettakis. I did my PhD at Technicolor R&I Rennes jointly with Morpheo team at INRIA Rhône-Alpes Grenoble, under the supervision of Edmond Boyer and Patrick Perez.
+I am an associate research scientist at [Disney Research](https://www.disneyresearch.com/) in Zürich. Before joining Disney, I was a postdoctoral researcher at INRIA in [GraphDeco](https://team.inria.fr/graphdeco/) group working on image and video based rendering in collaboration with George Drettakis. I did my PhD at [Technicolor R&I](http://www.technicolor.com/en/innovation/research-innovation/ri-laboratories) Rennes jointly with [Morpheo](http://morpheo.inrialpes.fr/) team at INRIA Rhône-Alpes Grenoble, under the supervision of Edmond Boyer and Patrick Perez.
 
 
 Publications
