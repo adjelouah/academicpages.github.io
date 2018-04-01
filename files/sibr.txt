@@ -1,0 +1,11 @@
+@inproceedings{ODD15, 
+  TITLE = {{A Bayesian Approach for Selective Image-Based Rendering using Superpixels}}, 
+  AUTHOR = {Ortiz-Cayon, Rodrigo and Djelouah, Abdelaziz and Drettakis, George}, 
+  URL = {https://hal.inria.fr/hal-01207907}, 
+  BOOKTITLE = {{International Conference on 3D Vision - 3DV}}, 
+  ADDRESS = {Lyon, France}, 
+  YEAR = {2015}, 
+  MONTH = Oct, 
+  PDF = {https://hal.inria.fr/hal-01207907/file/Ortiz-Cayon_3DV2015.pdf}, 
+  HAL_ID = {hal-01207907}, 
+  HAL_VERSION = {v1}, }
