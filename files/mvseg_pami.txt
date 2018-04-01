@@ -1,0 +1,12 @@
+@article{djelouah-pami2015, 
+  TITLE = {{Sparse Multi-View Consistency for Object Segmentation}}, 
+  AUTHOR = {Djelouah, Abdelaziz and Franco, Jean-S{\'e}bastien and Boyer, Edmond and Le Clerc, Fran{\c c}ois and Perez, Patrick}, 
+  URL = {https://hal.inria.fr/hal-01115557}, 
+  JOURNAL = {{IEEE Transactions on Pattern Analysis and Machine Intelligence}}, 
+  PUBLISHER = {{Institute of Electrical and Electronics Engineers (IEEE)}}, 
+  PAGES = {1 - 14}, 
+  YEAR = {2015}, 
+  DOI = {10.1109/TPAMI.2014.2385704}, 
+  PDF = {https://hal.inria.fr/hal-01115557/file/paper_V3.pdf}, 
+  HAL_ID = {hal-01115557}, 
+  HAL_VERSION = {v1}, }
