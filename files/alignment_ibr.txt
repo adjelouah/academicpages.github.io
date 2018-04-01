@@ -1,0 +1,7 @@
+@InProceedings{ODMAD16, 
+  author = "Ortiz-Cayon, Rodrigo and Djelouah, Abdelaziz and Massa, Francisco and Aubry, Mathieu and Drettakis, George", 
+  title = "Automatic 3D Car Model Alignment for Mixed Image-Based Rendering", 
+  booktitle = "3D Vision (3DV) 2016 International Conference on", 
+  address = "Stanford, United States", 
+  year = "2016", 
+  url = "http://www-sop.inria.fr/reves/Basilic/2016/ODMAD16" }
