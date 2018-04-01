@@ -1,0 +1,10 @@
+@inproceedings{djelouah-eccv12, 
+  url = {http://hal.inria.fr/hal-00735718}, 
+  title = {{N-Tuple Color Segmentation for Multi-View Silhouette Extraction}}, 
+  author = {Djelouah, Abdelaziz and Franco, Jean-S{\'e}bastien and Boyer, Edmond and Leclerc, Fran{\c c}ois and P{\'e}rez, Patrick}, 
+  affiliation = {Technicolor [Cesson S{\'e}vign{\'e}] , MORPHEO - INRIA Grenoble Rh{\^o}ne-Alpes / LJK Laboratoire Jean Kuntzmann}, 
+  booktitle = {{ECCV'12 - 12th European Conference on Computer Vision}}, 
+  publisher = {Springer}, 
+  pages = {818-831}, 
+  year = {2012}, 
+  pdf = {http://hal.inria.fr/hal-00735718/PDF/Final\_N-tuple\_Multi-View\_Silhouette\_Extraction-1.pdf}, }
