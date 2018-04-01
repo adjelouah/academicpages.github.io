@@ -1,0 +1,9 @@
+@inproceedings{djelouah-iccv13, 
+  url = {http://hal.inria.fr/hal-00873544}, 
+  title = {{Multi-View Object Segmentation in Space and Time}}, 
+  author = {Djelouah, Abdelaziz and Franco, Jean-S{\'e}bastien and Boyer, Edmond and Le Clerc, Francois and P{\'e}rez, Patrick}, 
+  affiliation = {MORPHEO - INRIA Grenoble Rh{\^o}ne-Alpes / LJK Laboratoire Jean Kuntzmann , Technicolor R \& I , Technicolor [Cesson S{\'e}vign{\'e}]}, 
+  booktitle = {{ICCV'13 - International Conference On Computer Vision}}, 
+  year = {2013}, 
+  month = Dec, 
+  pdf = {http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Djelouah_Multi-view_Object_Segmentation_2013_ICCV_paper.pdf}, }
