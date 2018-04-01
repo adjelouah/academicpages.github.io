@@ -1,0 +1,12 @@
+@inproceedings{djelouah2016, 
+  TITLE = {{Cotemporal Multi-View Video Segmentation}}, 
+  AUTHOR = {Djelouah, Abdelaziz and Franco, Jean-S{\'e}bastien and Boyer, Edmond and P{\'e}rez, Patrick and Drettakis, George}, 
+  URL = {https://hal.inria.fr/hal-01367430}, 
+  BOOKTITLE = {{3D Vision (3DV), 2016 International Conference on}}, 
+  ADDRESS = {Stanford, United States}, 
+  YEAR = {2016}, 
+  MONTH = Oct, 
+  KEYWORDS = {Segmentation ; Multi-view images ; Cosegmentation}, 
+  PDF = {https://hal.inria.fr/hal-01367430/file/final_umvseg_3dv.pdf}, 
+  HAL_ID = {hal-01367430}, 
+  HAL_VERSION = {v1}, }
