@@ -18,10 +18,9 @@ Publications
   	.hoverTable{
 		width:80%; 
 		border-collapse:collapse; 
-	        border: 0px;
 	}
 	.hoverTable td{ 
-		padding:7px; 
+		padding:7px; border:#4e95f4 1px solid;
 	}
 	/* Define the default color for all the table rows */
 	.hoverTable tr{
