@@ -14,9 +14,30 @@ I am an associate research scientist at [Disney Research](https://www.disneyrese
 
 Publications
 ------
+<style style="text/css">
+  	.hoverTable{
+		width:100%; 
+		border-collapse:collapse; 
+	}
+	.hoverTable td{ 
+		padding:7px; 
+	}
+	/* Define the default color for all the table rows */
+	.hoverTable tr{
+		background: #ffffff;
+	}
+	/* Define the hover highlight color for the table row */
+    .hoverTable tr:hover {
+          background-color: #f7f7f7;
+    }
+</style>
 
-<ul>{% for post in site.publications reversed %}
+<table class="hoverTable" width="100%">
+	<col style="width:70%">
+  <col style="width:30%">
+  {% for post in site.publications reversed %}
     {% include archive-single-pub.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+</table>
 
 
