@@ -9,4 +9,5 @@ uri: https://drive.google.com/open?id=14zsbw1VXZQQUN7K5Hep1OftAI08ZSev9
 arxiv:
 bibtex: files/ncloss.txt
 pdf: https://drive.google.com/open?id=14zsbw1VXZQQUN7K5Hep1OftAI08ZSev9
+teaser: images/ncloss.png
 ---
