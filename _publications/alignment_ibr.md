@@ -1,7 +1,7 @@
 ---
 title: "Automatic 3D Car Model Alignment for Mixed Image-Based Rendering"
 collection: publications
-permalink: /publication/phasenet
+permalink: /publication/alignment_ibr
 date: 2016-12-01
 venue: "3DV"
 authors: "R. Ortiz-Cayon, A. Djelouah, F. Massa, M. Aubry, G. Drettakis"
