@@ -20,7 +20,7 @@ Publications
 		border-collapse:collapse; 
 	}
 	.hoverTable td{ 
-		padding:7px; border:#4e95f4 1px solid;
+		padding:7px; border:#4e95f4 0px solid;
 	}
 	/* Define the default color for all the table rows */
 	.hoverTable tr{
