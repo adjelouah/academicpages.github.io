@@ -8,4 +8,5 @@ authors: "S. Meyer, A. Djelouah, B. McWilliams, A. Sorkine-Hornung, M. Gross, C.
 uri: https://drive.google.com/open?id=1LCnioSxkXZuARNAgJrMgA3Hlnvlnt887
 bibtex: files/phasenet.txt
 pdf: https://drive.google.com/open?id=1LCnioSxkXZuARNAgJrMgA3Hlnvlnt887
+teaser: images/phasenet.png
 ---
