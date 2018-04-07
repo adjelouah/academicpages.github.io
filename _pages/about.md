@@ -16,7 +16,7 @@ Publications
 ------
 <style style="text/css">
   	.hoverTable{
-		width:80%; 
+		width:90%; 
 		border-collapse:collapse; 
 		border: 0px;
 	}
@@ -34,8 +34,8 @@ Publications
 </style>
 
 <table class="hoverTable">
-  <col style="width:70%">
-  <col style="width:30%">
+  <col style="width:80%">
+  <col style="width:20%">
   {% for post in site.publications reversed %}
     {% include archive-single-pub.html %}
   {% endfor %}

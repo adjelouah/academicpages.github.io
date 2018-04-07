@@ -7,6 +7,7 @@ venue: "CVPR"
 authors: "S. Meyer, A. Djelouah, B. McWilliams, A. Sorkine-Hornung, M. Gross, C. Schroers"
 uri: 
 bibtex: files/phasenet.txt
-pdf: 
-teaser: 
+arxiv: https://arxiv.org/abs/1804.00884
+pdf: https://arxiv.org/pdf/1804.00884.pdf
+teaser: images/phasenet.png
 ---

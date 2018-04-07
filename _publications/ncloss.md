@@ -6,8 +6,8 @@ date: 2018-04-01
 venue: "CVPR"
 authors: "M. Tang, A. Djelouah, F. Perazzi, Y. Boykov, C. Schroers"
 uri: 
-arxiv:
+arxiv: https://arxiv.org/abs/1804.01346
 bibtex: files/ncloss.txt
-pdf: 
-teaser: 
+pdf: https://arxiv.org/pdf/1804.01346.pdf
+teaser: images/ncloss.png
 ---
