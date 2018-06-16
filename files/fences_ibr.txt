@@ -1,0 +1,11 @@
+@Article{TDDD18,
+  author       = "Thonat, Theo and Djelouah, Abdelaziz and Durand, Fr\'edo and Drettakis, George",
+  title        = "Thin Structures in Image Based Rendering",
+  journal      = "Computer Graphics Forum (Proceedings of the Eurographics Symposium on Rendering)",
+  number       = "4",
+  volume       = "37",
+  pages        = "12",
+  year         = "2018",
+  keywords     = "Image Based Rendering, Multi View, Segmentation",
+  url          = "http://www-sop.inria.fr/reves/Basilic/2018/TDDD18"
+}
