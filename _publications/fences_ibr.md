@@ -3,7 +3,7 @@ title: "Thin Structures in Image Based Rendering"
 collection: publications
 permalink: /publication/fences_ibr
 date: 2018-07-03
-venue: "Computer Graphics Forum (Proceedings of the Eurographics Symposium on Rendering)"
+venue: "CGF (Proceedings of the Eurographics Symposium on Rendering)"
 authors: "T. Thonat, A. Djelouah, F. Durand, G. Drettakis"
 uri: 
 bibtex: files/fences_ibr.txt
