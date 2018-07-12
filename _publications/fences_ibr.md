@@ -9,5 +9,5 @@ uri:
 bibtex: files/fences_ibr.txt
 pdf: http://www-sop.inria.fr/reves/Basilic/2018/TDDD18/main_thin_5.pdf
 project: http://www-sop.inria.fr/reves/Basilic/2018/TDDD18/
-teaser: 
+teaser: images/fences.png
 ---
