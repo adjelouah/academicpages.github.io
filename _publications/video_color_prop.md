@@ -9,4 +9,5 @@ uri:
 bibtex: files/phasenet.txt
 arxiv: https://arxiv.org/abs/1808.03232v1
 pdf: https://arxiv.org/pdf/1808.03232v1.pdf
+teaser: images/video_color_prop.jpg
 ---
