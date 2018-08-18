@@ -1,5 +1,5 @@
 ---
-title: "PhaseNet for Video Frame Interpolation"
+title: "Deep Video Color Propagation"
 collection: publications
 permalink: /publication/phasenet
 date: 2018-09-03
