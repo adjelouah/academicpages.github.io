@@ -1,0 +1,7 @@
+
+@inproceedings{meyer2018deep,
+  author={Meyer, Simone and Cornill{\`e}re, Victor and Djelouah, Abdelaziz and Schroers, Christopher and Gross, Markus},
+  title={Deep Video Color Propagation},
+  booktitle = {BMVC},
+  year = {2018}
+}
