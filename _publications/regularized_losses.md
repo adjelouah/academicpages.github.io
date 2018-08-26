@@ -8,6 +8,6 @@ authors: "M. Tang, F. Perazzi, A. Djelouah, I. Ben Ayed, C. Schroers, Y. Boykov"
 bibtex: files/regularized-losses.txt
 pdf: https://arxiv.org/pdf/1803.09569.pdf
 arxiv: https://arxiv.org/abs/1803.09569
-teaser: images/rcloss.jpg
+teaser: images/rloss.jpg
 project: https://github.com/meng-tang/rloss
 ---
