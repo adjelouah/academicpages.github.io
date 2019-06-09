@@ -1,0 +1,6 @@
+@inproceedings{campos2019content,
+  title={Content Adaptive Optimization for Neural Image Compression},
+  author={Campos, Joaquim and Simon, Meierhans and Djelouah, Abdelaziz and Schroers, Christopher},
+  booktitle={CVPR Workshop and Challenge on Learned Image Compression},
+  year={2019}
+}
