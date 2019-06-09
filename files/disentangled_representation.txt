@@ -1,0 +1,6 @@
+@inproceedings{helminger2018disentangled,
+  title={Disentangled Dynamic Representations from Unordered Data},
+  author={Helminger, Leonhard and Djelouah, Abdelaziz and Gross, Markus and Weber, Romann M},
+  booktitle={Symposium on Advances in Approximate Bayesian Inference},
+  year={2018}
+}
