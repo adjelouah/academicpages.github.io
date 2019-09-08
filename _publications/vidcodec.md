@@ -7,7 +7,7 @@ venue: "ICCV"
 authors: "A. Djelouah, J. Campos, S. Schaub-Meyer, C. Schroers"
 uri: 
 arxiv: 
-bibtex: 
+bibtex: files/vidcodec.txt
 pdf: 
 teaser: 
 ---
