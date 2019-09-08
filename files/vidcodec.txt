@@ -1,0 +1,6 @@
+@inproceedings{djelouah2019vidcodec,
+  title={Neural Inter-Frame Compression for Video Coding},
+  author={Djelouah, Abdelaziz and Campos, Joaquim and Schaub-Meyer, Simone and Schroers, Christopher},
+  booktitle={ICCV},
+  year={2019}
+}
