@@ -1,5 +1,5 @@
 ---
-title: "Blind image super resolution with spatially variant degradations"
+title: "Blind Image Super Resolution with Spatially Variant Degradations"
 collection: publications
 permalink: /publication/blindsr
 date: 2019-11-17
