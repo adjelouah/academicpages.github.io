@@ -8,6 +8,6 @@ authors: "A. Djelouah, J. Campos, S. Schaub-Meyer, C. Schroers"
 uri: 
 arxiv: 
 bibtex: files/vidcodec.txt
-pdf: 
-teaser: 
+pdf: https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2019/10/25081309/Neural-Inter-Frame-Compression-for-Video-Coding-1.pdf
+teaser: images/vidcodec_iccv19.png
 ---
