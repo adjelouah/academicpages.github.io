@@ -16,9 +16,9 @@
     <td>
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        {{ title }}
+        <a href="#" onclick="return false;">{{ title }}</a>
       {% else %}
-        {{ title }}
+        <a href="#" onclick="return false;">{{ title }}</a>
       {% endif %}
     </h3>
     {% if post.authors%}{{ post.authors }}{% endif %}
