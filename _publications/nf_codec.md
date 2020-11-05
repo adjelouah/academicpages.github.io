@@ -9,5 +9,5 @@ uri:
 arxiv: 
 bibtex: files/2020-imcodec-NF.txt
 pdf: https://arxiv.org/pdf/2008.10486.pdf
-teaser: 
+teaser:  images/imcodec_NF.png
 ---

@@ -9,5 +9,5 @@ uri:
 arxiv: 
 bibtex: files/2020-3d-matching-style.txt
 pdf: 
-teaser: 
+teaser: images/localization-style.png
 ---

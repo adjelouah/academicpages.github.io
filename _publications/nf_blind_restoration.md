@@ -9,5 +9,5 @@ uri:
 arxiv: 
 bibtex: files/2020-blind_restoration_NF.txt
 pdf: https://arxiv.org/pdf/2009.04583.pdf
-teaser: 
+teaser: images/blind_restoration_NF.png
 ---
