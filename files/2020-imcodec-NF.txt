@@ -1,0 +1,6 @@
+@article{helminger2020lossy,
+  title={Lossy Image Compression with Normalizing Flows},
+  author={Helminger, Leonhard and Djelouah, Abdelaziz and Gross, Markus and Schroers, Christopher},
+  journal={arXiv preprint arXiv:2008.10486},
+  year={2020}
+}
