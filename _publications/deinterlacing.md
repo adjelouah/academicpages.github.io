@@ -2,7 +2,7 @@
 title: "Deep Deinterlacing"
 collection: publications
 permalink: /publication/deinterlacing
-date: 2020-11-1
+date: 2020-12-1
 venue: "SMPTE"
 authors: "A. Bernasconi, A. Djelouah, S. Hattori, C. Schroers"
 uri: 
